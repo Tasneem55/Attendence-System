@@ -1,0 +1,21 @@
+.formcenter{
+    display:block;
+    width:30%;
+    margin: 100px auto; 
+    
+}
+#signup{
+    padding: 50px auto;
+    text-align: center;
+    align-self: center;
+    margin : 0px 40%;
+}
+.logina{
+    color: #c57aff;
+    font-weight: bold;
+}
+/* #signupdiv{
+    background-color: red;
+    align-content: center;
+    align-items: center;
+} */

@@ -1,0 +1,22 @@
+body{
+    background-color: #f2edf3 !important;
+}
+.footerrr{
+    position: absolute; 
+    width: 100%;
+    bottom: 1vh;
+
+}
+#footerlink{
+    color: #9c9fa6 !important;
+    text-decoration: none;
+}
+#logoSection{
+    color: #c57aff;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+#picLogo{
+    margin-right: 10px;
+}
